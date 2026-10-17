@@ -1,0 +1,2 @@
+variant,n_dice,n_extra_dice_achieved,services_covered,toxic_central_services_detected,toxic_central_services_included,unique_architectures_1000,most_common_combo,most_common_pct,least_common_combo,least_common_pct,rolls_with_repeats,incompatible_rolls
+V4 - Centrality + Extra + Toxic (with_toxic),5,0,13,2,true,69,ApiGateway | DynamoDB | Lambda | S3 | SQS,8.5,CloudFront | CloudWatch | ECS | ElastiCache | S3,0.1,0,0
